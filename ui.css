@@ -1,0 +1,24 @@
+.btn {
+    -fx-background-color: #7f99de;
+    -fx-background-radius: 10px;
+
+    
+}
+.btn:hover{
+    -fx-background-color: #1f4867;
+
+}
+
+.img {
+    -fx-opacity: 0.5;
+}
+
+.chatbox {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10px;
+}
+
+.chatboxmain {
+    -fx-background-color: #329b43;
+    -fx-background-radius: 10px;
+}
